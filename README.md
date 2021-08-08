@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=naydennn&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!-- Table of content -->
+
+| :octocat: Connect via: | :scroll: Certificates: | |
+| :-: | :-: | :-: |
+| :e-mail: **E-mail:**<br/>**na44kata@gmail.com**| :heavy_check_mark: [**Java Basics 2020**](https://softuni.bg/certificates/details/88416/07d6938c)<br/> :heavy_check_mark: [**Java Fundamentals 2020**](https://softuni.bg/certificates/details/96668/6eaee9a6)
+| :blue_book: [**Facebook**](https://www.facebook.com/na44kata/) | :heavy_check_mark: [**Java Advanced 2021**](https://softuni.bg/certificates/details/104559/3a753c94) <br/>:heavy_check_mark: [**Java OOP 2021**](https://softuni.bg/certificates/details/104117/5aa586a6) 
+| | :heavy_check_mark: [**MySql 2021**](https://softuni.bg/certificates/details/107772/fcdb7cf9) 
